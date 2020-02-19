@@ -4,6 +4,6 @@
   Edit 1: Another operating system function would be the user interface. The user interface is important becuase it is how the user interacts with the operating system. That is why you should know which OS user interface is good for you, specially if you aren't
   tech saavy.
   
-  
+  Edit 2: I must've forgot to put this in, but an important operating system function would be security. When dealing with important and sensetive information, it is always good to make sure it is secure. A good secure operating system would be macOS or Linux, but it wouldn't matter too much with Windows either.
   
   
